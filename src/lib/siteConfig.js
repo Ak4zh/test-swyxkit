@@ -1,6 +1,6 @@
-export const SITE_URL = 'https://swyxkit.netlify.app';
-export const APPROVED_POSTERS_GH_USERNAME = ['sw-yx'];
-export const GH_USER_REPO = 'sw-yx/swyxkit'; // used for pulling github issues and offering comments
+export const SITE_URL = 'https://netlify-thinks-ak4zh-is-great.netlify.app';
+export const APPROVED_POSTERS_GH_USERNAME = ['ak4zh'];
+export const GH_USER_REPO = 'Ak4zh/test-swyxkit'; // used for pulling github issues and offering comments
 export const REPO_URL = 'https://github.com/' + GH_USER_REPO;
 export const SITE_TITLE = 'SwyxKit';
 export const SITE_DESCRIPTION = "swyx's default SvelteKit + Tailwind starter";
